@@ -73,5 +73,5 @@ ll = LinkedList() # instantiasi objek ke class LinkedList
 ll.insert_awal("X") # Menambahkan node dengan data "X" di awal linked list
 ll.insert_awal("Y") # Menambahkan node dengan data "Y" di awal linked list
 ll.insert_awal("Z") # Menambahkan node dengan data "Z" di awal linked list
-ll.tampilkan()
 ll.hapus_awal() # Menghapus node di awal linked list
+ll.tampilkan() # Menampilkan isi linked list setelah penghapusan
